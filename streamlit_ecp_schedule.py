@@ -6,7 +6,7 @@ import pandas as pd
 import plotly.express as px
 
 # ─── APP VERSION ───────────────────────────────────────────────────────────────
-VERSION = "1.0.0"
+VERSION = "1.0.2"
 
 # ─── PAGE CONFIG ─────────────────────────────────────────────────────────────
 st.set_page_config(
